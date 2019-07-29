@@ -1,11 +1,11 @@
 # Spring-5.0-Microservices
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Spring-5.0-Microservices-elearning.svg)](https://github.com/TrainingByPackt/Spring-5.0-Microservices-elearning/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Spring-5.0-Microservices-elearning.svg)](https://github.com/TrainingByPackt/Spring-5.0-Microservices-elearning/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Spring-5.0-Microservices-elearning.svg)](https://github.com/TrainingByPackt/Spring-5.0-Microservices-elearning/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Spring-5.0-Microservices-elearning/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Spring-5.0-Microservices.svg)](https://github.com/TrainingByPackt/Spring-5.0-Microservices/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Spring-5.0-Microservices.svg)](https://github.com/TrainingByPackt/Spring-5.0-Microservices/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Spring-5.0-Microservices-.svg)](https://github.com/TrainingByPackt/Spring-5.0-Microservices-/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Spring-5.0-Microservices-/pulls)
 
 
-# Spring-5.0-Microservices [eLearning]
+# Spring-5.0-Microservices
 A practical and user-friendly approach to building microservices in Spring.
 
 ## What you will learn
